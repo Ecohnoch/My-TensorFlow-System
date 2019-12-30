@@ -1,0 +1,2 @@
+class CkptNotComplete(Exception):
+    pass
